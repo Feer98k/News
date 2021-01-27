@@ -3,7 +3,7 @@ package com.example.news.key;
 public interface KeysURL {
     //Insira a key da API aqui
     //insert the api key here
-    String KEY = "hhhlkkmndknd";
+    String KEY = "insert the API_KEY here";
 
 
     String URL_ALL_NEWS = "top-headlines?country=br&apiKey=" + KEY;
