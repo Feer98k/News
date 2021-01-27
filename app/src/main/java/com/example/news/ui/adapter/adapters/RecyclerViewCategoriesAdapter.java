@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.news.R;
 import com.example.news.constants.EnumCategory;
 import com.example.news.model.Category;
-import com.example.news.ui.adapter.ClickListeners.OnItemClickListenerCategory;
+import com.example.news.ui.adapter.clickListener.OnItemClickListenerCategory;
 
 import java.util.List;
 

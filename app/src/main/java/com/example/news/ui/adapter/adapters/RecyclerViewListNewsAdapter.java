@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.example.news.R;
 import com.example.news.model.Notice;
-import com.example.news.ui.adapter.ClickListeners.OnItemClickListenerNews;
+import com.example.news.ui.adapter.clickListener.OnItemClickListenerNews;
 
 import java.util.List;
 
