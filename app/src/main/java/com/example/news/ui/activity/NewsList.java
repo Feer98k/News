@@ -12,6 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.news.R;
 import com.example.news.constants.EnumCategory;
+import com.example.news.key.KeysURL;
 import com.example.news.model.Articles;
 import com.example.news.model.Category;
 import com.example.news.model.ListCategories;
@@ -66,6 +67,7 @@ public class NewsList extends AppCompatActivity {
         uploadElements();
         createRetrofit();
 
+
     }
 
     private void uploadElements() {
@@ -90,10 +92,10 @@ public class NewsList extends AppCompatActivity {
     }
 
     private void newsItemClick() {
-        noticesAdapter.setOnItemClickListenerNews(news -> {
-            news.setEnumCategory(notice.getEnumCategory());
+        noticesAdapter.setOnItemClickListenerNews(noticia -> {
+            noticia.setEnumCategory(notice.getEnumCategory());
             Intent intent = new Intent(getApplicationContext(), NewsStory.class);
-            intent.putExtra(KEY_NEWS_MATTER, news);
+            intent.putExtra(KEY_NEWS_MATTER, noticia);
             startActivity(intent);
 
         });

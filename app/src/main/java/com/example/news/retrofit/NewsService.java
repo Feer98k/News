@@ -5,12 +5,15 @@ import com.example.news.model.Articles;
 import retrofit2.Call;
 import retrofit2.http.GET;
 
-import static com.example.news.config.KEY.*;
+import static com.example.news.key.KeysURL.URL_ALL_NEWS;
+import static com.example.news.key.KeysURL.URL_BUSINESS;
+import static com.example.news.key.KeysURL.URL_ENTERTAINMENT;
+import static com.example.news.key.KeysURL.URL_SCIENCE;
+import static com.example.news.key.KeysURL.URL_SPORTS;
+import static com.example.news.key.KeysURL.URL_TECHNOLOGY;
 
 
 public interface NewsService {
-
-
 
     @GET(URL_ALL_NEWS)
     Call<Articles> getAllNews();
