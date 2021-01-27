@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itens_categoria"
+    android:layout_width="30dp"
+    android:layout_height="30dp"
+
+    android:layout_margin="17dp"
+    android:background="@drawable/fundo_image_personalizado"
+
+
+
+    tools:targetApi="lollipop" />

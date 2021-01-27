@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/chemistry.png" />
+        <ignore path="src/main/res/drawable/economic.png" />
+        <ignore path="src/main/res/drawable/newspaper.png" />
+        <ignore path="src/main/res/drawable/noimage.jpg" />
+        <ignore path="src/main/res/drawable/popcorn.png" />
+        <ignore path="src/main/res/drawable/popcorn.png" />
+        <ignore path="src/main/res/drawable/technology.png" />
+    </issue>
+</lint>
