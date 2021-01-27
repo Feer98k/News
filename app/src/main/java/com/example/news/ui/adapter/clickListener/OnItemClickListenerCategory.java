@@ -1,4 +1,4 @@
-package com.example.news.ui.adapter.ClickListeners;
+package com.example.news.ui.adapter.clickListener;
 
 import com.example.news.model.Category;
 
