@@ -22,6 +22,9 @@ Note: the device needs to be connected to the internet to be able to access and 
 
 Minimum OS: Android 4.1 (API level 16).
 --
+# need HELP?
+Contact: fernandoamaral1998@gmail.com
+--
 # Instruções 
 Para utilizar o aplicativo é necessário obter uma Key da api de consumo e configurar no projeto segue os passos:
 
