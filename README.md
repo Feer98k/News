@@ -11,7 +11,7 @@ Minimum OS: Android 4.1 (API level 16).
 
 ---
 
-#News
+# News
 It aims to bring news with a diversity of different categories to be consumed according to the user's choice, it has minimalist and intuitive details.
 
 Resources :
