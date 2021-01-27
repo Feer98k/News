@@ -7,11 +7,11 @@ Recursos :
 -Glide para trazer uma imagem Url ao aplicativo.
 
 Obs: o dispositivo necessita estar conectado com a internet para poder acessar e consumir as notícias.
+Minimum OS: Android 4.1 (API level 16).
 
-OS mínima: Android 4.1 (API de nível 16).
 ---
 
-News
+#News
 It aims to bring news with a diversity of different categories to be consumed according to the user's choice, it has minimalist and intuitive details.
 
 Resources :
