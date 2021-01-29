@@ -39,7 +39,6 @@ Para utilizar o aplicativo é necessário obter uma Key da api de consumo e conf
 	
 após seguir estes passos o aplicativo estará pronto para uso.	
 
---
 # Instructions
 To use the application it is necessary to obtain a Key from the consumption api and configure the project in the following steps:
 
@@ -47,7 +46,7 @@ To use the application it is necessary to obtain a Key from the consumption api 
   - Register an account for free at the link https://newsapi.org/ (by clicking the GET API KEY button)
   - Keep a configuration key in the project.
 
--Configuring the project:
+- Configuring the project:
  - Go to the KeyURL interface within the key in com.example.news package
  - Modify the KEY variable by placing the api key inside the parentheses
  - Example: String KEY = "7a73fe8d19tc4b84b5a399fcc0311kcd";
