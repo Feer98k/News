@@ -29,13 +29,13 @@ Contact: fernandoamaral1998@gmail.com
 Para utilizar o aplicativo é necessário obter uma Key da api de consumo e configurar no projeto segue os passos:
 
 - Obter key:
- - Registre uma conta de forma gratuita no link  https://newsapi.org/ (clicando no botão GET API KEY)
- - Guarde a key para configuração no projeto.
+  - Registre uma conta de forma gratuita no link  https://newsapi.org/ (clicando no botão GET API KEY)
+  - Guarde a key para configuração no projeto.
 
 - Configurando no projeto:
- - Vá até a interface KeyURL dentro do pacote key  em com.example.news
- - Modifique a variável KEY colocando a chave da api dentro dos parênteses
- - Exemplo: String KEY = "7a73fe8d19tc4b84b5a399fcc0311kcd";
+  - Vá até a interface KeyURL dentro do pacote key  em com.example.news
+  - Modifique a variável KEY colocando a chave da api dentro dos parênteses
+  - Exemplo: String KEY = "7a73fe8d19tc4b84b5a399fcc0311kcd";
 	
 após seguir estes passos o aplicativo estará pronto para uso.	
 
