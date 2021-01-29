@@ -2,9 +2,9 @@
 Notícias
 Tem como objetivo trazer notícias com uma diversidade de categorias diferentes para ser consumida de acordo com a escolha do usuário, possui detalhes minimalistas e intuitivos.
 
-Recursos :
-- Retrofit para consumo de RestFull.
-- Glide para trazer uma imagem Url ao aplicativo.
+- Recursos:
+ - Retrofit para consumo de RestFull.
+ - Glide para trazer uma imagem Url ao aplicativo.
 
 Obs: o dispositivo necessita estar conectado com a internet para poder acessar e consumir as notícias.
 Minimum OS: Android 4.1 (API level 16).
@@ -14,7 +14,7 @@ Minimum OS: Android 4.1 (API level 16).
 # News
 It aims to bring news with a diversity of different categories to be consumed according to the user's choice, it has minimalist and intuitive details.
 
-Resources :
+- Resources:
  - Retrofit for RestFull consumption.
  - Glide to bring a Url image to the application.
 
