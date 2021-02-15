@@ -20,8 +20,7 @@ Para utilizar o aplicativo é necessário obter uma Key da api de consumo e conf
   - Vá até a interface KeyURL dentro do pacote key  em com.example.news
   - Modifique a variável KEY colocando a chave da api dentro dos parênteses
   - Exemplo: String KEY = "7a73fe8d19tc4b84b5a399fcc0311kcd";
-	
-após seguir estes passos o aplicativo estará pronto para uso.	
+
 ---
 
 # News
@@ -44,8 +43,6 @@ To use the application it is necessary to obtain a Key from the consumption api 
   - Go to the KeyURL interface within the key in com.example.news package
   - Modify the KEY variable by placing the api key inside the parentheses
   - Example: String KEY = "7a73fe8d19tc4b84b5a399fcc0311kcd";
-
-after following these steps the application available ready to use.
 
 
 Minimum OS: Android 4.1 (API level 16).
