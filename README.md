@@ -1,6 +1,5 @@
 # Noticias
-# Demo:
-https://www.youtube.com/watch?v=puzhn10gz9U&feature=youtu.be
+
 Notícias
 Tem como objetivo trazer notícias com uma diversidade de categorias diferentes para ser consumida de acordo com a escolha do usuário, possui detalhes minimalistas e intuitivos.
 
@@ -22,7 +21,8 @@ Para utilizar o aplicativo é necessário obter uma Key da api de consumo e conf
   - Vá até a interface KeyURL dentro do pacote key  em com.example.news
   - Modifique a variável KEY colocando a chave da api dentro dos parênteses
   - Exemplo: String KEY = "7a73fe8d19tc4b84b5a399fcc0311kcd";
-
+# Demo:
+https://www.youtube.com/watch?v=puzhn10gz9U&feature=youtu.be
 ---
 
 # News
