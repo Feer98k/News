@@ -1,4 +1,6 @@
 # Noticias
+# Demo:
+https://www.youtube.com/watch?v=puzhn10gz9U&feature=youtu.be
 Notícias
 Tem como objetivo trazer notícias com uma diversidade de categorias diferentes para ser consumida de acordo com a escolha do usuário, possui detalhes minimalistas e intuitivos.
 
