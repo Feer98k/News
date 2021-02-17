@@ -4,7 +4,7 @@ Notícias
 Tem como objetivo trazer notícias com uma diversidade de categorias diferentes para ser consumida de acordo com a escolha do usuário, possui detalhes minimalistas e intuitivos.
 
 - Recursos:
-  - Retrofit para consumo de RestFull.
+  - Retrofit para consumo de RestFul.
   - Glide para trazer uma imagem Url ao aplicativo.
 
 Obs: o dispositivo necessita estar conectado com a internet para poder acessar e consumir as notícias.
