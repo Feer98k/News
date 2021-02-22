@@ -25,31 +25,10 @@ Para utilizar o aplicativo é necessário obter uma Key da api de consumo e conf
 https://www.youtube.com/watch?v=puzhn10gz9U&feature=youtu.be
 ---
 
-# News
-It aims to bring news with a diversity of different categories to be consumed according to the user's choice, it has minimalist and intuitive details.
+# Screenshots
+<img src="screenShots/splash_screen.jpeg" width ="150" ><img src="screenShots/ultimas_noticias.jpeg" width ="150" > <img src="screenShots/ultimas_noticias.jpeg" width ="150" >
 
-- Resources:
-  - Retrofit for RestFull consumption.
-  - Glide to bring a Url image to the application.
-
-Note: the device needs to be connected to the internet to be able to access and consume the news.
-
-# Instructions
-To use the application it is necessary to obtain a Key from the consumption api and configure the project in the following steps:
-
-- Get API KEY:
-  - Register an account for free at the link https://newsapi.org/ (by clicking the GET API KEY button)
-  - Keep a configuration key in the project.
-
-- Configuring the project:
-  - Go to the KeyURL interface within the key in com.example.news package
-  - Modify the KEY variable by placing the api key inside the parentheses
-  - Example: String KEY = "7a73fe8d19tc4b84b5a399fcc0311kcd";
+<img src="screenShots/entreteinmento_noticias.jpeg" width ="150" > <img src="screenShots/esportes_noticias.jpeg" width ="150" > <img src="screenShots/tecnologia_noticias.jpeg.jpeg" width ="150" > 
 
 
-Minimum OS: Android 4.1 (API level 16).
---
-
-Contact: fernandoamaral1998@gmail.com
---
 
