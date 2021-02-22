@@ -27,8 +27,8 @@ https://www.youtube.com/watch?v=puzhn10gz9U&feature=youtu.be
 
 # Screenshots
 <img src="screenShots/splash_screen.jpeg" width ="150" ><img src="screenShots/ultimas_noticias.jpeg" width ="150" >
-<img src="screenShotsentreteinmento_noticias.jpeg" width ="150" > <img src="screenShots/esportes_noticias.jpeg" width ="150" >
-<img src="screenShots/tecnologia_noticias.jpeg.jpeg" width ="150" > 
+<img src="screenShots/entreteinmento_noticias.jpeg" width ="150" > <img src="screenShots/esportes_noticias.jpeg" width ="150" >
+<img src="screenShots/tecnologia_noticias.jpeg" width ="150" > 
 
 
 
