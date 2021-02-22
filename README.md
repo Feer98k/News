@@ -3,6 +3,12 @@
 Notícias
 Tem como objetivo trazer notícias com uma diversidade de categorias diferentes para ser consumida de acordo com a escolha do usuário, possui detalhes minimalistas e intuitivos.
 
+# Screenshots
+<img src="screenShots/splash_screen.jpeg" width ="150" ><img src="screenShots/ultimas_noticias.jpeg" width ="150" >
+<img src="screenShots/entreteinmento_noticias.jpeg" width ="150" > <img src="screenShots/esportes_noticias.jpeg" width ="150" >
+<img src="screenShots/tecnologia_noticias.jpeg" width ="150" > 
+
+
 - Recursos:
   - Retrofit para consumo de RestFul.
   - Glide para trazer uma imagem Url ao aplicativo.
@@ -25,10 +31,7 @@ Para utilizar o aplicativo é necessário obter uma Key da api de consumo e conf
 https://www.youtube.com/watch?v=puzhn10gz9U&feature=youtu.be
 ---
 
-# Screenshots
-<img src="screenShots/splash_screen.jpeg" width ="150" ><img src="screenShots/ultimas_noticias.jpeg" width ="150" >
-<img src="screenShots/entreteinmento_noticias.jpeg" width ="150" > <img src="screenShots/esportes_noticias.jpeg" width ="150" >
-<img src="screenShots/tecnologia_noticias.jpeg" width ="150" > 
+
 
 
 
